@@ -1,0 +1,4 @@
+﻿  imgpro.cpp
+C:\dev\vcpkg\vcpkg\installed\x86-windows\include\opencv2\objdetect\aruco_board.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\visualstudioIDE\VC\Tools\MSVC\14.36.32532\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\61903\source\repos\imgpro\imgpro\imgpro.cpp(6,10): fatal  error C1083: 无法打开包括文件: “tesseract/baseapi.h”: No such file or directory
