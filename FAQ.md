@@ -1,1 +1,2 @@
 这里是常见问题解答：
+中文乱码：这是由于Tesseract-OCR返回的文字数据是UTF8编码而Windows对UTF8支持不好，后续版本会改用ANSI编码输出文字
